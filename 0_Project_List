@@ -1,4 +1,15 @@
 C Programming Projects
 
 -	Hello World
+-	Add compiler path to Windows environment variables
 -	Compile and run Hello World from command line
+-	Delete the .exe file in command line
+-	Give the .exe file a specific name in command line
+
+
+-	Print size of int and long
+-	Declare an unsigned int
+-	Read in int and print its value
+-	Use format specifiers to print decimal, hex and octal values of an int
+-	Use format specifiers to print decimal, hex and octal values of a hex
+-	Use format specifiers to print decimal, hex and octal values of an Octal
