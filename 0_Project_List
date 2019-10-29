@@ -1,5 +1,7 @@
 C Programming Projects
 
+// START & COMPILER
+-------------------------------
 -	Hello World
 -	Add compiler path to Windows environment variables
 -	Compile and run Hello World from command line
@@ -7,9 +9,12 @@ C Programming Projects
 -	Give the .exe file a specific name in command line
 
 
+// CHARS & INTS
+-------------------------------
 -	Print size of int and long
 -	Declare an unsigned int
 -	Read in int and print its value
--	Use format specifiers to print decimal, hex and octal values of an int
--	Use format specifiers to print decimal, hex and octal values of a hex
--	Use format specifiers to print decimal, hex and octal values of an Octal
+-	Use format specifiers to print decimal, hex and octal values of an int, a hex and an octal
+-	Read in char, print its int value and vice versa
+-	Read in char, determine if upper or lower and change case
+-	Cast an int to a float
