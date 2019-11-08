@@ -18,3 +18,23 @@ C Programming Projects
 -	Read in char, print its int value and vice versa
 -	Read in char, determine if upper or lower and change case
 -	Cast an int to a float
+-	Print return value of printf()
+-	Print return value of scanf()
+
+
+// IF ELSE, TERNARY, SWITCH
+-------------------------------
+-	Read 3 ints, print max
+-	Find max of 3 ints using ternary operator
+-	Read in a year, print whether it is a leap year or not
+		// every 4th year is a leap year
+		// unless it is 100th year, but every 400th year is a leap year
+-	The above Leap Year program using ternary operator
+-	Use switch to print Zero, One or Invalid
+-	Use switch to print whether or not a given age is a teen age
+
+
+// LOOPS
+-------------------------------
+-	Print sum of first n ints
+-	Read in ints from user, terminate if int is negative, print sum of all ints
