@@ -36,5 +36,23 @@ C Programming Projects
 
 // LOOPS
 -------------------------------
--	Print sum of first n ints
+-	Print sum of first n ints, using while and for loops
 -	Read in ints from user, terminate if int is negative, print sum of all ints
+-	Keep asking for user's age until they want to quit or until they are > 18
+
+
+// RANDOM & ARRAYS
+-------------------------------
+-	Print seconds since Epoch
+-	Create an array of random ints < 8, with number of elements given by user
+
+
+// STRINGS
+-------------------------------
+-	Find the length of a string using a library function
+-	Write code to find the length of a user inputted string
+-	Count alpha chars and spaces in a string
+-	Compare 2 strings
+-	Find the longest word in a string
+-	Check if a string is a plaindrome, ignore spaces and make case insensitive
+-	Count Frequency of Digits in a String

@@ -22,7 +22,7 @@ int main()
 
     // read in user's guess
     // break if guess is correct
-    while (guessCount < 5)
+    while (guessCount < 5 && userGuess != sum)
     {
         printf("Guess sum of two dice rolls: ");
         scanf("%d", &userGuess);
@@ -31,10 +31,7 @@ int main()
 
         // if guess is correct
         if (userGuess == sum)
-        {
             printf("\nYou won ");
-            break;
-        }
         // if guess is low
         else if (userGuess < sum)
             printf("Too Low\n");
@@ -46,14 +43,15 @@ int main()
 
     // if not guessed in five guesses
     if (sum != userGuess)
-        printf("\nSorry you lost ");
+        printf("\nSorry you lost with %d guesses\n", guessCount);
 
     // print guess count
-    printf("with %d guesses, the correct sum was %d!\n\n", guessCount, sum);
+
 
     // print dice rolls
     printf("Dice One: %d\n", diceOne);
     printf("Dice Two: %d\n", diceTwo);
+	printf("The correct sum was %d!\n\n", sum);
 
     return 0;
 }
