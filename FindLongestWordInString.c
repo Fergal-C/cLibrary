@@ -17,7 +17,10 @@ int main()
     // int variables
     int currentWordLength = 0;
     int longestWordLength = 0;
-    int inputStringLength = strlen(inputString);
+    
+	// Creating this variable, stops the longest word char array
+	// from including gibberish at the end
+	int inputStringLength = strlen(inputString);
 
     // find the longest word
     for (int i=0; i<inputStringLength; i++)

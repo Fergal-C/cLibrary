@@ -54,7 +54,7 @@ C Programming Projects
 -	Count alpha chars and spaces in a string
 -	Compare 2 strings
 -	Find the longest word in a string
--	Check if a string is a plaindrome, ignore spaces and make case insensitive
+-	Check if a string is a palindrome, ignore spaces and make case insensitive
 -	Count Frequency of Digits in a String
 
 
@@ -64,4 +64,5 @@ C Programming Projects
 -	Write a function, which uses the function above, to sum all the prime numbers less than a given value
 -	Write a function to change case
 -	Write a function to count number of digits in a number
--	Write function to test if a number is an Armstrong number, i.e. each digit raised to the power of the number of digits = the number itself
+-	Write function to test if a number is an Armstrong number, i.e. each digit raised to the power of the number of digits = the number itself - make it work for 153
+- 	Create one player rock, paper, scissors game
