@@ -1,0 +1,9 @@
+Relay
+Inverter
+And Gate
+Or Gate
+NOR Gate
+NAND Gate
+XOR
+Half Adder
+Full Adder
